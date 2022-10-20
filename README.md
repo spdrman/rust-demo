@@ -29,7 +29,11 @@ Search youtube for music video based on "artist" + "song"
 
 https://www.youtube.com/results?search_query=Groove+Matter+%2B+97+Ways
 
-Take the result and pick the first one and store it
+Take the result of each loop iteration, pick the first item in the result, and store it in a YPlaylistItem struct
+
+Your end result should be a vector of YPlaylistItem structs.
+
+See tests in the youtube.rs spider for examples of some code that will help, and also the additional instructions in the comment at the top of that file.
 
 #### WARNING!!!  ATTENTION!!!  Do the above behind a VPN, and implement a time delay between each call to Youtube (use 10sec delay to be safe)
 
