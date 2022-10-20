@@ -1,3 +1,10 @@
+# YOUTUBE LINK TO WORKSHOP VIDEO FOR PART 1 BELOW:
+
+< COMING SOON >
+
+---------------------
+
+# PART 1
 Connect to soma.fm: https://somafm.com/groovesalad/songhistory.html
 
 Pull in the song history
@@ -10,8 +17,11 @@ Store song history
 
   * Some rows are "HH:MM	Break / Station ID"
 
+---------------------
 
-# YOUR HOMEWORK:
+# PART 2:
+
+### YOUR HOMEWORK:
 
 For each song in the playlist datastructure
 
