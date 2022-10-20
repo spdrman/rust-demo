@@ -31,4 +31,6 @@ https://www.youtube.com/results?search_query=Groove+Matter+%2B+97+Ways
 
 Take the result and pick the first one and store it
 
+#### WARNING!!!  ATTENTION!!!  Do the above behind a VPN, and implement a time delay between each call to Youtube (use 10sec delay to be safe)
+
 ### Submit your solution to PART 2 as a PR to this repo
