@@ -1,6 +1,6 @@
 # YOUTUBE LINK TO WORKSHOP VIDEO FOR PART 1 BELOW:
 
-< COMING SOON >
+https://youtu.be/x23HqkU000U
 
 ---------------------
 
